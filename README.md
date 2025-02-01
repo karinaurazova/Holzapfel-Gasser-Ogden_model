@@ -172,7 +172,7 @@ Stresses $\sigma_x$ and $\sigma_y$ in tensile directions:
 ```math
      \frac{\partial \Psi_{\text{iso}}}{\partial \epsilon_x} = 2C, \quad \frac{\partial \Psi_{\text{iso}}}{\partial \epsilon_y} = 2C.
 ```
-   - For the anisotropic part \( \Psi_{\text{aniso}} \):
+   - For the anisotropic part $Psi_{\text{aniso}}$:
 ```math
      \frac{\partial \Psi_{\text{aniso}}}{\partial \epsilon_x} = k_1 E_{\text{fiber}_x} \exp(k_2 E_{\text{fiber}_x}^2) \frac{\partial E_{\text{fiber}_x}}{\partial \epsilon_x},
 ```
