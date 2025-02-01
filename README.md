@@ -5,21 +5,21 @@
 To run the scripts, you will need to have Python installed on your machine. You can download Python from the official website: https://www.python.org/
 
 You will also need to install the following Python libraries:
-
+```
 pip install numpy
 pip install matplotlib
-
+```
 ## Usage
 
 1. Copy the repository to your local machine:
-
+```
 git clone https://github.com/karinaurazova/Holzapfel-Gasser-Ogden_model.git
-
-2. Run the Python script for the desired model:
-
-- Holzapfel_Gasser_Ogden_model_unaxial_tension.ipynb: This script presents the implementation of a model for unaxial tension and the prediction of the stress-strain relationship
-- Holzapfel_Gasser_Ogden_model_biaxial_tension.ipynb: This script presents the implementation of a model for biaxial tension and the prediction of the stress-strain relationship.
-
+```
+3. Run the Python script for the desired model:
+```
+Holzapfel_Gasser_Ogden_model_unaxial_tension.ipynb: This script presents the implementation of a model for unaxial tension and the prediction of the stress-strain relationship
+Holzapfel_Gasser_Ogden_model_biaxial_tension.ipynb: This script presents the implementation of a model for biaxial tension and the prediction of the stress-strain relationship.
+```
 ## Theory
 Implementation of the anisotropic Holzapfel-Gasser-Ogden material model for uniaxial and biaxial tension on Python.
 
