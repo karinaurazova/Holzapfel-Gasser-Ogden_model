@@ -174,7 +174,7 @@ Stresses $\sigma_x$ and $\sigma_y$ in tensile directions:
 ```
    - For the anisotropic part $Psi_{\text{aniso}}$:
 ```math
-     \frac{\partial \Psi_{\text{aniso}}}{\partial \epsilon_x} = k_1 E_{\text{fiber}_x} \exp(k_2 E_{\text{fiber}_x}^2) \frac{\partial E_{\text{fiber}_x}}{\partial \epsilon_x},
+     \frac{\partial \Psi_{\text{aniso}}}{\partial \epsilon_x} = k_1 E_{\text{fiber}_x} e^(k_2 E_{\text{fiber}_x}^2) \frac{\partial E_{\text{fiber}_x}}{\partial \epsilon_x},
 ```
 where
 $E_{\text{fiber}_x} = \kappa (I_1 - 3) + (1 - 3\kappa)(I_4 - 1)$.
