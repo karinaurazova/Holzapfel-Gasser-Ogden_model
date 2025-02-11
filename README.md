@@ -196,6 +196,6 @@ Example of the resulting stress-strain curves for biaxial tension:
 If you have any suggestions or improvements for the scripts, feel free to open a pull request (or you can email me: karina_urazova@icloud.com) or create an issue on the repository.
 
 ***
-**Thank you for your interest in the Holzapfel-Gasser-Ogden model anisotropic material for uniaxial and biaxial tensionproject. I hope this framework proves valuable for your research and applications.**
+**Thank you for your interest in the Holzapfel-Gasser-Ogden model anisotropic material for uniaxial and biaxial tension project. I hope this framework proves valuable for your research and applications.**
 
 
