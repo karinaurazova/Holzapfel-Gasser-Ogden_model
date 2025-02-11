@@ -95,7 +95,7 @@ Stress $\sigma$ in the stretching direction:
 \sigma = \frac{\partial \Psi}{\partial \lambda}.
 ```
 
-In the script, the $\sigma$ voltage is calculated as:
+In the script, the $\sigma$ stress is calculated as:
 ```math
 \sigma = \frac{\partial \Psi_{\text{total}}}{\partial \epsilon},
 ```
@@ -189,7 +189,7 @@ $E_{\text{fiber}_x} = \kappa (I_1 - 3) + (1 - 3\kappa)(I_4 - 1)$.
      \sigma_y = \frac{\partial \Psi_{\text{iso}}}{\partial \epsilon_y} + \frac{\partial \Psi_{\text{aniso}_y}}{\partial \epsilon_y}.
 ```
 
-Example of the resulting stress-strain curves for uniaxial tension:
+Example of the resulting stress-strain curves for biaxial tension:
 ![](https://github.com/karinaurazova/Holzapfel-Gasser-Ogden_model/blob/main/h-g-o(biaxial%20tension).png)
 ## Contributing
 
